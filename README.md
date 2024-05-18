@@ -29,6 +29,14 @@ The application is deployed and can be accessed at [EVENT_EASE_MERN](https://eve
 - **Image Upload:** Cloudinary
 - **Styling:** Tailwind CSS
 
+## ScreenShots 📷
+![Screenshot 2024-05-18 121856](https://github.com/shubhrocks20/EVENT_EASE-MERN/assets/94545975/0345c9c1-7f11-42d3-a1f6-68f2aabca913)
+![Screenshot 2024-05-18 121915](https://github.com/shubhrocks20/EVENT_EASE-MERN/assets/94545975/f9622050-d7e2-4932-854e-a38c6daaf1be)
+![Screenshot 2024-05-18 121941](https://github.com/shubhrocks20/EVENT_EASE-MERN/assets/94545975/c8148cad-135a-4dd2-a423-5aa1e8239483)
+
+
+
+
 ## Installation
 
 ### Prerequisites
